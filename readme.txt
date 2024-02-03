@@ -1,7 +1,3 @@
-Project members:
-Ramis Humayun 22L-6698
-Esha Imran 22L-6628
-
 How to play:
 	1. Navigation:
 		Move the green cursor left, right, up, and down using the left, right, up, and down arrow keys respectively.
